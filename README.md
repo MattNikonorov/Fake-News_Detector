@@ -1,4 +1,4 @@
-# Fake-News_Detector
+# Fake News Detector
 This is the github repository for this tutorial: https://dev.to/code_jedi/detect-fake-news-headlines-with-python-2l43
 
 This python script can classify news headlines as real or fake by analyzing their choice of words.
